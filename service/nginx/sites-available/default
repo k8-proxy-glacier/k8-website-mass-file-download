@@ -1,8 +1,8 @@
 server {
-	listen 7777 default_server;
-	listen [::]:7777 default_server;
+	listen 80 default_server;
+	listen [::]:80 default_server;
 
-	root /etc/mirror/www.gov.uk;
+	root /var/www/html/www.gov.uk;
 
 	index index.html;
 
