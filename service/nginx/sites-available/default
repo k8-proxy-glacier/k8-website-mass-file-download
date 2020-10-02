@@ -7,8 +7,6 @@ server {
 
         ssl_certificate     default.crt;
         ssl_certificate_key default.key;
-        #ssl_certificate     cert.pem;
-        #ssl_certificate_key key.pem;
         ssl_protocols       TLSv1.1 TLSv1.2 TLSv1.3;
 
 
