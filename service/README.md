@@ -24,6 +24,8 @@
   ```
 
 - Move the `nginx` folder from the repo to `/etc/`
+  
+  `sudo mv nginx /etc/`
 
 - Run  `cd /etc/nginx` and generate a self-signed certificate for `www.gov.uk`  and `assets.publishing.service.gov.uk` as follows
   
