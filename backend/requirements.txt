@@ -1,5 +1,5 @@
 bs4==0.0.1
 Flask==1.1.2
-lxml==4.1.1
+lxml==4.6.3
 pywebcopy==6.3.0
 requests==2.23.0
